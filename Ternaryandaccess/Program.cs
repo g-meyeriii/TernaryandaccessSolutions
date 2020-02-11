@@ -4,7 +4,7 @@ namespace Ternaryandaccess {
     public class Program {
 
 
-        static void Main(string[] args) {
+        static void Main(string[] args) { 
 
             Console.WriteLine($"The cube of 17 is { Cubed(17)}");
             //var message = Customer.PrintNextId();
